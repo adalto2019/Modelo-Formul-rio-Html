@@ -1,7 +1,7 @@
 # Modelo Formulário Html/Css
 
-Modelo de formulário em html/Css desenvolvido como requisito de prova dissertativa do curso de FUllSTACK.
-O formulário foi desenvolvido seguinte as seuintes regras solicitadas:
+Modelo de formulário em html/Css desenvolvido como requisito de prova dissertativa do curso de FULLSTACK.
+O formulário foi desenvolvido seguindo as seuintes regras solicitadas:
 
 * Deve possuir um campo para texto; um campo somente númerico. um campo para e-mail;
 * Uma lista com 5 checkbox; 
@@ -9,9 +9,10 @@ O formulário foi desenvolvido seguinte as seuintes regras solicitadas:
 * Crie um botão de submit e
 * Um botão para limpar o formulário.
 
+
 ## Layout do Projeto
 
-()[img.png]
+<img src="img.png">
 
 ## Tecnologias utilizadas
 
@@ -31,7 +32,7 @@ Front End:  HTML e CSS
 	<h1>Pesquisa de Intenção</h1>
    	<hr>
 	<br>
-	<form method="post" action="mailto:adaltojr.aj@gmail.com">
+	<form method="post" action="mailto:exemplo@exemplo.com">
 		<input type="text" name="Nome:" placeholder="Digite aqui o seu nome: "><p/>
 		<input type="email" name="Email" placeholder="Digite aqui o seu e-mail: "><p/>
 		<h4>Em que ano você concluiu o ensino médio?: </h4><p/>
