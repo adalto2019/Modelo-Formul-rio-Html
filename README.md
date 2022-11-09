@@ -1,7 +1,7 @@
 # Modelo Formulário Html/Css
 
 Modelo de formulário em html/Css desenvolvido como requisito de prova dissertativa do curso de FULLSTACK.
-O formulário foi desenvolvido seguindo as seuintes regras solicitadas:
+O formulário foi desenvolvido seguindo as seguintes regras solicitadas:
 
 * Deve possuir um campo para texto; um campo somente númerico. um campo para e-mail;
 * Uma lista com 5 checkbox; 
